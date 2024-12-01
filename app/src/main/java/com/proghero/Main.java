@@ -1,6 +1,7 @@
-//filename:HelloWorld.java
-class HelloWorld {
-    public static void main(String args[ ]) {
-        System.out.println("Hello World");
+//filename:Example.java
+class Example {
+    public static void main(String args[]) {
+        boolean isGuest = true;
+        System.out.println(isGuest);
     }
 }
